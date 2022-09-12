@@ -1,0 +1,2 @@
+# StrategifyDjango
+ Algotrading platform
